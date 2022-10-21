@@ -63,6 +63,7 @@
     <None Include="Assets\Materials\PUCNewShader.shader" />
     <None Include="Assets\Materials\Japão.shader" />
     <None Include="Assets\Materials\Arvores.shader" />
+    <None Include="Assets\Materials\Neve.shader" />
     <None Include="Assets\Materials\França.shader" />
   </ItemGroup>
   <ItemGroup>

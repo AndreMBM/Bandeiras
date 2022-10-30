@@ -113,8 +113,8 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
-    - _WindForce: 0.00053
-    - _WindSelect: 0.389
+    - _WindForce: 0.0002
+    - _WindSelect: 0.663
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
